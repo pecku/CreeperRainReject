@@ -1,0 +1,8 @@
+name: CreeperRainReject
+version: '${project.version}'
+main: hu.pecku.creeperrainreject.CreeperRainReject
+api-version: 1.18
+prefix: CReject
+load: STARTUP
+authors: [ pecku ]
+description: Creepers don't explode when it's raining
